@@ -11,7 +11,7 @@ The input data should be read from the console. It consists of:
 •	On the fourth line you will be given the number of the planes that are approaching
 On the next 2*N lines you will be given:
 •	On the every odd line you will be given the plane X coordinate
-•	on the every even line you will be given the plane Y coordinate
+•	on the every even line you will be given the plane Y coordinate 
 The input data will always be valid and in the format described. There is no need to check it explicitly.
 
 Output
