@@ -20,6 +20,7 @@ Constraints
 •	Allowed working time for your program: 0.1 seconds.
 •	Allowed memory: 16 MB.
 
+Examples
 Input   Output   Comments
 2600    117.00   2600 rubles is 2600 / 100 = 26 * 3.5 = 91 leva, 60 dollars is 60 * 1.5 = 90 leva , 60 euro is 60 * 1.95 = 117 leva, 
 60               130 leva for 2 games is 130 / 2 = 65 leva per game and 70 leva is 70 leva. The most expensive game is 117 leva.
