@@ -1,4 +1,5 @@
-/*  Twisted Fate loves to play with cards! His favourite one is Ace of Diamonds. Your task is to draw Ace of Diamonds on the conole by given width/height. See examples below to understand the task better.
+/*  
+Twisted Fate loves to play with cards! His favourite one is Ace of Diamonds. Your task is to draw Ace of Diamonds on the conole by given width/height. See examples below to understand the task better.
 
 Input
 The input data should be read from the console. It consists of one input value:
