@@ -14,7 +14,6 @@ Constraints
 •	Allowed memory: 16 MB.
 
 Examples
-		
 Input	Output	                             	
 3    	***
         *@*
@@ -28,7 +27,7 @@ Input   Output
         *****
         
 Input   Output        
-7	    *******
+7       *******
         *--@--*
         *-@@@-*
         *@@@@@*
