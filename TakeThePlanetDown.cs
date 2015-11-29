@@ -4,7 +4,7 @@ You are governor of security of Wonderland and you need to protect your country.
 You will be given coordinates (x,y) of your headquarters and the distance to the borders. On the next line you will receive the number of the fighters that are approaching your country. After that for the next N * 2 lanes you will be given all the planes coordinates. You need to calculate the distance to every one of them and if they are inside your country shoot them. For every plane you destroy you need to print a message for it on the console: You destroyed a plane at [x,y]. Where x and y are the coordinates of the plane.
 
 Input
-The input data should be read from the console. It consists of:
+The input data should be read from the console. It consists of: 
 •	On the first line you will be given the X of your headquarter.
 •	On the second line you will be given the Y of your headquarter.
 •	On the third line you will be given the distance from your headquarter to the borders.
