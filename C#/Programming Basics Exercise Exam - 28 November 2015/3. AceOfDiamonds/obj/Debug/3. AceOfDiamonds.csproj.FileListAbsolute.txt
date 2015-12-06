@@ -1,0 +1,5 @@
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\3. AceOfDiamonds\bin\Debug\_3.AceOfDiamonds.exe.config
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\3. AceOfDiamonds\bin\Debug\_3.AceOfDiamonds.exe
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\3. AceOfDiamonds\bin\Debug\_3.AceOfDiamonds.pdb
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\3. AceOfDiamonds\obj\Debug\_3.AceOfDiamonds.exe
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\3. AceOfDiamonds\obj\Debug\_3.AceOfDiamonds.pdb

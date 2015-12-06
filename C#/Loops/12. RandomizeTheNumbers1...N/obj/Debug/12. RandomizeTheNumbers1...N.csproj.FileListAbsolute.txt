@@ -1,0 +1,6 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\12. RandomizeTheNumbers1...N\bin\Debug\_12.RandomizeTheNumbers1._._.N.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\12. RandomizeTheNumbers1...N\bin\Debug\_12.RandomizeTheNumbers1._._.N.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\12. RandomizeTheNumbers1...N\bin\Debug\_12.RandomizeTheNumbers1._._.N.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\12. RandomizeTheNumbers1...N\obj\Debug\12. RandomizeTheNumbers1...N.csprojResolveAssemblyReference.cache
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\12. RandomizeTheNumbers1...N\obj\Debug\_12.RandomizeTheNumbers1._._.N.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\12. RandomizeTheNumbers1...N\obj\Debug\_12.RandomizeTheNumbers1._._.N.pdb

@@ -1,0 +1,5 @@
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\2. TakeThePlaneDown\bin\Debug\_2.TakeThePlaneDown.exe.config
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\2. TakeThePlaneDown\bin\Debug\_2.TakeThePlaneDown.exe
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\2. TakeThePlaneDown\bin\Debug\_2.TakeThePlaneDown.pdb
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\2. TakeThePlaneDown\obj\Debug\_2.TakeThePlaneDown.exe
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\2. TakeThePlaneDown\obj\Debug\_2.TakeThePlaneDown.pdb

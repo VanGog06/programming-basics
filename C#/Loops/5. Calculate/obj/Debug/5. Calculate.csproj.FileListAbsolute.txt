@@ -1,0 +1,5 @@
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\5. Calculate\bin\Debug\_5.Calculate.exe.config
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\5. Calculate\bin\Debug\_5.Calculate.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\5. Calculate\bin\Debug\_5.Calculate.pdb
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\5. Calculate\obj\Debug\_5.Calculate.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\5. Calculate\obj\Debug\_5.Calculate.pdb

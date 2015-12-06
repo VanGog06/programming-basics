@@ -1,0 +1,6 @@
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\1. NumberFrom1toN\bin\Debug\_1.NumberFrom1toN.exe.config
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\1. NumberFrom1toN\bin\Debug\_1.NumberFrom1toN.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\1. NumberFrom1toN\bin\Debug\_1.NumberFrom1toN.pdb
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\1. NumberFrom1toN\obj\Debug\1. NumberFrom1toN.csprojResolveAssemblyReference.cache
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\1. NumberFrom1toN\obj\Debug\_1.NumberFrom1toN.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\1. NumberFrom1toN\obj\Debug\_1.NumberFrom1toN.pdb

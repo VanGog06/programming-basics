@@ -1,0 +1,6 @@
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\LectureSeven\bin\Debug\LectureSeven.exe.config
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\LectureSeven\bin\Debug\LectureSeven.exe
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\LectureSeven\bin\Debug\LectureSeven.pdb
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\LectureSeven\obj\Debug\1. ImpressTheGirlfriend.csprojResolveAssemblyReference.cache
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\LectureSeven\obj\Debug\LectureSeven.exe
+c:\Users\BatePepi\Documents\Visual Studio 2015\Projects\LectureSeven\LectureSeven\obj\Debug\LectureSeven.pdb
