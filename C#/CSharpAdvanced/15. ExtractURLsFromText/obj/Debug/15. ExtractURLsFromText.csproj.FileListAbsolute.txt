@@ -1,0 +1,5 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\15. ExtractURLsFromText\bin\Debug\_15.ExtractURLsFromText.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\15. ExtractURLsFromText\bin\Debug\_15.ExtractURLsFromText.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\15. ExtractURLsFromText\bin\Debug\_15.ExtractURLsFromText.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\15. ExtractURLsFromText\obj\Debug\_15.ExtractURLsFromText.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\15. ExtractURLsFromText\obj\Debug\_15.ExtractURLsFromText.pdb

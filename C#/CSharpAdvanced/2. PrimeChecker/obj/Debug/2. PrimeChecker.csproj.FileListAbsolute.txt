@@ -1,0 +1,5 @@
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\2. PrimeChecker\bin\Debug\_2.PrimeChecker.exe.config
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\2. PrimeChecker\bin\Debug\_2.PrimeChecker.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\2. PrimeChecker\bin\Debug\_2.PrimeChecker.pdb
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\2. PrimeChecker\obj\Debug\_2.PrimeChecker.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\2. PrimeChecker\obj\Debug\_2.PrimeChecker.pdb

@@ -1,0 +1,6 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\13. AverageLoadTimeCalculator\obj\Debug\_13.AverageLoadTimeCalculator.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\13. AverageLoadTimeCalculator\obj\Debug\_13.AverageLoadTimeCalculator.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\13. AverageLoadTimeCalculator\obj\Debug\13. AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
