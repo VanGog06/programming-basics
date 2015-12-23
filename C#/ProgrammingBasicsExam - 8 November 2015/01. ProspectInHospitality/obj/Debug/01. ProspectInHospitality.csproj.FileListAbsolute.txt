@@ -1,0 +1,6 @@
+c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\01. ProspectInHospitality\bin\Debug\_01.ProspectInHospitality.exe.config
+c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\01. ProspectInHospitality\bin\Debug\_01.ProspectInHospitality.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\01. ProspectInHospitality\bin\Debug\_01.ProspectInHospitality.pdb
+c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\01. ProspectInHospitality\obj\Debug\01. ProspectInHospitality.csprojResolveAssemblyReference.cache
+c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\01. ProspectInHospitality\obj\Debug\_01.ProspectInHospitality.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\01. ProspectInHospitality\obj\Debug\_01.ProspectInHospitality.pdb
