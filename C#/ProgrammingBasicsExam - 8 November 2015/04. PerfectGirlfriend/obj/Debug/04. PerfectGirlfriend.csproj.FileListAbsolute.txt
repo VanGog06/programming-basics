@@ -1,0 +1,6 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\04. PerfectGirlfriend\bin\Debug\_04.PerfectGirlfriend.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\04. PerfectGirlfriend\bin\Debug\_04.PerfectGirlfriend.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\04. PerfectGirlfriend\bin\Debug\_04.PerfectGirlfriend.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\04. PerfectGirlfriend\obj\Debug\04. PerfectGirlfriend.csprojResolveAssemblyReference.cache
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\04. PerfectGirlfriend\obj\Debug\_04.PerfectGirlfriend.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\04. PerfectGirlfriend\obj\Debug\_04.PerfectGirlfriend.pdb

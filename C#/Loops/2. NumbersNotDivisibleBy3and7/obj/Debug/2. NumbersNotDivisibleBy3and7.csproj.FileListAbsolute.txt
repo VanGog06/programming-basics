@@ -1,0 +1,5 @@
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\2. NumbersNotDivisibleBy3and7\bin\Debug\_2.NumbersNotDivisibleBy3and7.exe.config
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\2. NumbersNotDivisibleBy3and7\bin\Debug\_2.NumbersNotDivisibleBy3and7.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\2. NumbersNotDivisibleBy3and7\bin\Debug\_2.NumbersNotDivisibleBy3and7.pdb
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\2. NumbersNotDivisibleBy3and7\obj\Debug\_2.NumbersNotDivisibleBy3and7.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\2. NumbersNotDivisibleBy3and7\obj\Debug\_2.NumbersNotDivisibleBy3and7.pdb

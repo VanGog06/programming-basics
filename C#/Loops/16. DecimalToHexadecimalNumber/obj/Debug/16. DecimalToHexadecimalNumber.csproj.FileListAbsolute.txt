@@ -1,0 +1,6 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\16. DecimalToHexadecimalNumber\bin\Debug\_16.DecimalToHexadecimalNumber.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\16. DecimalToHexadecimalNumber\bin\Debug\_16.DecimalToHexadecimalNumber.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\16. DecimalToHexadecimalNumber\bin\Debug\_16.DecimalToHexadecimalNumber.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\16. DecimalToHexadecimalNumber\obj\Debug\16. DecimalToHexadecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\16. DecimalToHexadecimalNumber\obj\Debug\_16.DecimalToHexadecimalNumber.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\16. DecimalToHexadecimalNumber\obj\Debug\_16.DecimalToHexadecimalNumber.pdb

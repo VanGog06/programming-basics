@@ -1,0 +1,6 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\18. TrailingZeroesInN!\bin\Debug\_18.TrailingZeroesInN_.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\18. TrailingZeroesInN!\bin\Debug\_18.TrailingZeroesInN_.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\18. TrailingZeroesInN!\bin\Debug\_18.TrailingZeroesInN_.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\18. TrailingZeroesInN!\obj\Debug\18. TrailingZeroesInN!.csprojResolveAssemblyReference.cache
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\18. TrailingZeroesInN!\obj\Debug\_18.TrailingZeroesInN_.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\18. TrailingZeroesInN!\obj\Debug\_18.TrailingZeroesInN_.pdb

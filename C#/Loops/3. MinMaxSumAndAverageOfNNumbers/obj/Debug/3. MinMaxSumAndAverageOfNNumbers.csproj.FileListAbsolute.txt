@@ -1,0 +1,5 @@
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\3. MinMaxSumAndAverageOfNNumbers\bin\Debug\_3.MinMaxSumAndAverageOfNNumbers.exe.config
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\3. MinMaxSumAndAverageOfNNumbers\bin\Debug\_3.MinMaxSumAndAverageOfNNumbers.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\3. MinMaxSumAndAverageOfNNumbers\bin\Debug\_3.MinMaxSumAndAverageOfNNumbers.pdb
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\3. MinMaxSumAndAverageOfNNumbers\obj\Debug\_3.MinMaxSumAndAverageOfNNumbers.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\3. MinMaxSumAndAverageOfNNumbers\obj\Debug\_3.MinMaxSumAndAverageOfNNumbers.pdb

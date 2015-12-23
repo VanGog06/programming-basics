@@ -1,0 +1,5 @@
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\4. DifferenceBetweenDates\bin\Debug\_4.DifferenceBetweenDates.exe.config
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\4. DifferenceBetweenDates\bin\Debug\_4.DifferenceBetweenDates.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\4. DifferenceBetweenDates\bin\Debug\_4.DifferenceBetweenDates.pdb
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\4. DifferenceBetweenDates\obj\Debug\_4.DifferenceBetweenDates.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\4. DifferenceBetweenDates\obj\Debug\_4.DifferenceBetweenDates.pdb

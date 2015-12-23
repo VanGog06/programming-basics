@@ -1,0 +1,5 @@
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\9. MatrixNumbers\bin\Debug\_9.MatrixNumbers.exe.config
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\9. MatrixNumbers\bin\Debug\_9.MatrixNumbers.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\9. MatrixNumbers\bin\Debug\_9.MatrixNumbers.pdb
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\9. MatrixNumbers\obj\Debug\_9.MatrixNumbers.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\Loops\9. MatrixNumbers\obj\Debug\_9.MatrixNumbers.pdb

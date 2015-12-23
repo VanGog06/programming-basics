@@ -1,0 +1,5 @@
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\3. PrimesInGivenRange\bin\Debug\_3.PrimesInGivenRange.exe.config
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\3. PrimesInGivenRange\bin\Debug\_3.PrimesInGivenRange.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\3. PrimesInGivenRange\bin\Debug\_3.PrimesInGivenRange.pdb
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\3. PrimesInGivenRange\obj\Debug\_3.PrimesInGivenRange.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\3. PrimesInGivenRange\obj\Debug\_3.PrimesInGivenRange.pdb

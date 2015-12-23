@@ -1,0 +1,6 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\11. CountOfLetters\bin\Debug\_11.CountOfLetters.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\11. CountOfLetters\obj\Debug\11. CountOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\11. CountOfLetters\obj\Debug\_11.CountOfLetters.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\11. CountOfLetters\obj\Debug\_11.CountOfLetters.pdb
