@@ -1,5 +1,0 @@
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\9. RemoveNames\bin\Debug\_9.RemoveNames.exe.config
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\9. RemoveNames\bin\Debug\_9.RemoveNames.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\9. RemoveNames\bin\Debug\_9.RemoveNames.pdb
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\9. RemoveNames\obj\Debug\_9.RemoveNames.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\9. RemoveNames\obj\Debug\_9.RemoveNames.pdb

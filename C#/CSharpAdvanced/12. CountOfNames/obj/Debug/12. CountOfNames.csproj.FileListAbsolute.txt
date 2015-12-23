@@ -1,5 +1,0 @@
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\12. CountOfNames\bin\Debug\_12.CountOfNames.exe.config
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\12. CountOfNames\bin\Debug\_12.CountOfNames.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\12. CountOfNames\bin\Debug\_12.CountOfNames.pdb
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\12. CountOfNames\obj\Debug\_12.CountOfNames.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\12. CountOfNames\obj\Debug\_12.CountOfNames.pdb

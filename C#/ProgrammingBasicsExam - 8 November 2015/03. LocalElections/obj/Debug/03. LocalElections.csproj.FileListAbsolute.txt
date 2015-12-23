@@ -1,6 +1,0 @@
-C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\03. LocalElections\bin\Debug\_03.LocalElections.exe.config
-C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\03. LocalElections\bin\Debug\_03.LocalElections.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\03. LocalElections\bin\Debug\_03.LocalElections.pdb
-C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\03. LocalElections\obj\Debug\03. LocalElections.csprojResolveAssemblyReference.cache
-C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\03. LocalElections\obj\Debug\_03.LocalElections.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\03. LocalElections\obj\Debug\_03.LocalElections.pdb

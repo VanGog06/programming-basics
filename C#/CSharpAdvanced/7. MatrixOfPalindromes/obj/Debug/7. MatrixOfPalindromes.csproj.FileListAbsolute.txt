@@ -1,5 +1,0 @@
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\7. MatrixOfPalindromes\bin\Debug\_7.MatrixOfPalindromes.exe.config
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\7. MatrixOfPalindromes\bin\Debug\_7.MatrixOfPalindromes.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\7. MatrixOfPalindromes\bin\Debug\_7.MatrixOfPalindromes.pdb
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\7. MatrixOfPalindromes\obj\Debug\_7.MatrixOfPalindromes.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\7. MatrixOfPalindromes\obj\Debug\_7.MatrixOfPalindromes.pdb

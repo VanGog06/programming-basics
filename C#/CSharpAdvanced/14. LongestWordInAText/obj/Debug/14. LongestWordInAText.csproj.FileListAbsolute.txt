@@ -1,5 +1,0 @@
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\14. LongestWordInAText\bin\Debug\_14.LongestWordInAText.exe.config
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\14. LongestWordInAText\bin\Debug\_14.LongestWordInAText.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\14. LongestWordInAText\bin\Debug\_14.LongestWordInAText.pdb
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\14. LongestWordInAText\obj\Debug\_14.LongestWordInAText.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\CSharpAdvanced\14. LongestWordInAText\obj\Debug\_14.LongestWordInAText.pdb

@@ -1,5 +1,0 @@
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe.config
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.pdb
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.exe
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.pdb

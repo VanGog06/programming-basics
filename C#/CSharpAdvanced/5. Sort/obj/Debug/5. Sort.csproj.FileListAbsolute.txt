@@ -1,6 +1,0 @@
-c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\5. Sort\bin\Debug\_5.Sort.exe.config
-c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\5. Sort\bin\Debug\_5.Sort.exe
-c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\5. Sort\bin\Debug\_5.Sort.pdb
-c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\5. Sort\obj\Debug\5. Sort.csprojResolveAssemblyReference.cache
-c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\5. Sort\obj\Debug\_5.Sort.exe
-c:\users\batepepi\documents\visual studio 2015\Projects\CSharpAdvanced\5. Sort\obj\Debug\_5.Sort.pdb

@@ -1,5 +1,0 @@
-c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\02. SudokuResults\bin\Debug\_02.SudokuResults.exe.config
-c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\02. SudokuResults\bin\Debug\_02.SudokuResults.exe
-c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\02. SudokuResults\bin\Debug\_02.SudokuResults.pdb
-c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\02. SudokuResults\obj\Debug\_02.SudokuResults.exe
-c:\users\batepepi\documents\visual studio 2015\Projects\ProgrammingBasicsExam - 8 November 2015\02. SudokuResults\obj\Debug\_02.SudokuResults.pdb

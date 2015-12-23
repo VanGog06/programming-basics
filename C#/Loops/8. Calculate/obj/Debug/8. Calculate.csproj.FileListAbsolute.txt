@@ -1,6 +1,0 @@
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\8. Calculate\bin\Debug\_8.Calculate.exe.config
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\8. Calculate\bin\Debug\_8.Calculate.exe
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\8. Calculate\bin\Debug\_8.Calculate.pdb
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\8. Calculate\obj\Debug\8. Calculate.csprojResolveAssemblyReference.cache
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\8. Calculate\obj\Debug\_8.Calculate.exe
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\8. Calculate\obj\Debug\_8.Calculate.pdb

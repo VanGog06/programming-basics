@@ -1,5 +1,0 @@
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\17. CalculateGCD\bin\Debug\_17.CalculateGCD.exe.config
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\17. CalculateGCD\bin\Debug\_17.CalculateGCD.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\17. CalculateGCD\bin\Debug\_17.CalculateGCD.pdb
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\17. CalculateGCD\obj\Debug\_17.CalculateGCD.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\17. CalculateGCD\obj\Debug\_17.CalculateGCD.pdb

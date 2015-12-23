@@ -1,5 +1,0 @@
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\14. DecimalToBinaryNumber\bin\Debug\_14.DecimalToBinaryNumber.exe.config
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\14. DecimalToBinaryNumber\bin\Debug\_14.DecimalToBinaryNumber.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\14. DecimalToBinaryNumber\bin\Debug\_14.DecimalToBinaryNumber.pdb
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\14. DecimalToBinaryNumber\obj\Debug\_14.DecimalToBinaryNumber.exe
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\14. DecimalToBinaryNumber\obj\Debug\_14.DecimalToBinaryNumber.pdb

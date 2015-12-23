@@ -1,6 +1,0 @@
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\4. PrintADeckOf52Cards\bin\Debug\_4.PrintADeckOf52Cards.exe.config
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\4. PrintADeckOf52Cards\bin\Debug\_4.PrintADeckOf52Cards.exe
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\4. PrintADeckOf52Cards\bin\Debug\_4.PrintADeckOf52Cards.pdb
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\4. PrintADeckOf52Cards\obj\Debug\_4.PrintADeckOf52Cards.exe
-c:\users\batepepi\documents\visual studio 2015\Projects\Loops\4. PrintADeckOf52Cards\obj\Debug\_4.PrintADeckOf52Cards.pdb
-C:\Users\BatePepi\documents\visual studio 2015\Projects\Loops\4. PrintADeckOf52Cards\obj\Debug\4. PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
